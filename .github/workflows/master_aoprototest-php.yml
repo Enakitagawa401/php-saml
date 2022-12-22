@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'AOPrototest-php'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EC495528CC94D3FB207D3C79C9A1611 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_492BCC2EAE9046E69F8426E9E59C9B07 }}
           package: .
